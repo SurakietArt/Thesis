@@ -14,7 +14,7 @@ A fluid flowing around the surface of an object exerts a force on it. Lift is th
 
    <center><img  width="486"  height="335"  src="https://i.imgur.com/2yJv0j8.png">
 
-This diagram show data flow from sensor to reciver to collect the data and send it to computer (Excel) via PLX-DAQ to calculate lift force.
+This diagram show data flow from sensor to reciver for collect the data and send it to computer (Excel) via PLX-DAQ to calculate lift force.
 <p align="center">Device : Arduino Mega 2560</p>
 <center><img   src="https://i.imgur.com/q6Zjacl.png">
 <center><img   src="https://i.imgur.com/Zn1wMKR.png">
